@@ -7,17 +7,18 @@ This project aims to provide an autonomous, AI-powered solution to detect and re
 
 ## Features
 
-Debris Identification – Uses sensors and cameras to differentiate between crops and various debris types.
-
-Autonomous Navigation – The vehicle moves through the field, scanning and locating obstacles in real time.
-
-Robotic Claw Mechanism – The vehicle moves toward the debris, using a robotic arm to pick it up, then removes it from designated areas.
-
-User-Controlled App – Farmers can monitor and adjust operations via an easy-to-use mobile application.
+- **Debris Identification:** Uses sensors and cameras to differentiate between crops and various debris types.
+- **Autonomous Navigation:** The vehicle moves through the field, scanning and locating obstacles in real time.
+- **Robotic Claw Mechanism:** The vehicle moves toward the debris, using a robotic arm to pick it up, then removes it from designated areas.
+- **User-Controlled App:** Farmers can monitor and adjust operations via an easy-to-use mobile application.
 
 ## Technology Stack
 
-- Hardware: Raspberry Pi, Camera Module, Ultrasonic Sensors, Motorized Claw
-- Software: Python, OpenCV, YOLOv3, Flutter, Dart, NumPy
-- APIs & Networking: GraphQL, WebSockets
-- Tools: VS Code, Android Studio
+- **Hardware:** Raspberry Pi, Camera Module, Ultrasonic Sensors, Motorized Claw
+- **Software:** Python, OpenCV, YOLOv3, Flutter, Dart, NumPy
+- **APIs & Networking:** GraphQL, WebSockets
+- **Tools:** VS Code, Android Studio
+
+## Live Demo
+
+Watch the rover in action: [Live Demo on YouTube](https://www.youtube.com/watch?v=4Ge4vw6to4c)
